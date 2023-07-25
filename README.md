@@ -1,7 +1,6 @@
 ### Problem Statement :
 
-
-
+Inferring emotions from multiple modalities is very critical for social communication and deficits in emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses AI to help autistic individuals recognize emotions in text.
 
 ### Model :
 
@@ -11,7 +10,7 @@ MobileBERT (Keras and Keras Core)
 
 GoEmotions is a human-annotated dataset of 58k Reddit comments extracted from popular English-language subreddits and has 27 emotion categories.
 
-[AffectNet](https://arxiv.org/pdf/2005.00547.pdf)
+[GoEmotions](https://arxiv.org/pdf/2005.00547.pdf)
 
 Mediapipe Demo : https://codepen.io/Tensor-Girl/pen/ExdJmmP
 
@@ -21,7 +20,7 @@ Mediapipe Demo : https://codepen.io/Tensor-Girl/pen/ExdJmmP
 
 [Official Keras Core Documentation](https://keras.io/keras_core/)
 
-[Facial expression recognition as a candidate marker for autism spectrum disorder](https://molecularautism.biomedcentral.com/articles/10.1186/s13229-018-0187-7)
+[Automatic Emotion Recognition in Children with Autism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8875834/)
 
 ### My Advocacy in Autism
 
