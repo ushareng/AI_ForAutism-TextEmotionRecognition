@@ -12,11 +12,9 @@ GoEmotions is a human-annotated dataset of 58k Reddit comments extracted from po
 
 [GoEmotions](https://arxiv.org/pdf/2005.00547.pdf)
 
-Mediapipe Demo : https://codepen.io/Tensor-Girl/pen/ExdJmmP
+Mediapipe Demo: https://codepen.io/Tensor-Girl/pen/GRYLmmQ
 
 ### References :
-
-[Distract Your Attention: Multi-head Cross Attention Network for Facial Expression Recognition](https://arxiv.org/pdf/2109.07270.pdf)
 
 [Official Keras Core Documentation](https://keras.io/keras_core/)
 
