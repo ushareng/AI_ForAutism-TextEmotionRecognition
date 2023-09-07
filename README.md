@@ -14,6 +14,11 @@ GoEmotions is a human-annotated dataset of 58k Reddit comments extracted from po
 
 Mediapipe Demo: https://codepen.io/Tensor-Girl/pen/GRYLmmQ
 
+
+### Intel Extension of TensorFlow
+
+Include the line pip install --upgrade intel-extension-for-tensorflow[cpu] in the beginning to use the Intel Extension of Tensorflow
+
 ### References :
 
 [Official Keras Core Documentation](https://keras.io/keras_core/)
