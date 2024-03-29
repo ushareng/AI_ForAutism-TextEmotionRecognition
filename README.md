@@ -5,6 +5,7 @@ Inferring emotions from multiple modalities is very critical for social communic
 ### Model :
 
 Gemma 2B and Gemini Pro 1.0 for Clustering
+
 MobileBERT (Keras and Keras Core)
 
 ### Dataset : 
