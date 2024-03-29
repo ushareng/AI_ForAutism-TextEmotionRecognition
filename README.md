@@ -4,6 +4,7 @@ Inferring emotions from multiple modalities is very critical for social communic
 
 ### Model :
 
+Gemma 2B and Gemini Pro 1.0 for Clustering
 MobileBERT (Keras and Keras Core)
 
 ### Dataset : 
@@ -15,9 +16,9 @@ GoEmotions is a human-annotated dataset of 58k Reddit comments extracted from po
 Mediapipe Demo: https://codepen.io/Tensor-Girl/pen/GRYLmmQ
 
 
-### Intel Extension of TensorFlow
+### Intel oneAPI Toolkit
 
-Include the line pip install --upgrade intel-extension-for-tensorflow[cpu] in the beginning to use the Intel Extension of Tensorflow
+Intel extension of TensorFlow and Intel optimized scikit Learn are used for performance optimization
 
 ### References :
 
