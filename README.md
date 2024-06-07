@@ -1,6 +1,6 @@
 ### Problem Statement :
 
-Inferring emotions from multiple modalities is very critical for social communication and deficits in emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses AI to help autistic individuals recognize emotions in text.
+Inferring emotions from multiple modalities is very critical for social communication and deficits in emotion recognition are a very important marker in the diagnosis of autism spectrum disorder. This project uses Gemma , Gemini Pro and Intel oneAPI to help autistic individuals recognize emotions in text.
 
 ### Model :
 
